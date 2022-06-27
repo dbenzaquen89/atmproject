@@ -1,0 +1,27 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: teal;
+  margin-left: 50px;
+}
+
+button {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 20px;
+  width: 150px;
+}
+#deposit {
+  background-color: #0ff166;
+  border: 3px solid black;
+}
+
+#withdrawal {
+  background-color: crimson;
+  border: 3px solid black;
+
+}
+select {
+  display: block;
+  margin-bottom: 20px;
+}
